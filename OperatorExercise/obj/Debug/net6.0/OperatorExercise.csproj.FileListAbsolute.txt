@@ -1,0 +1,15 @@
+C:\Users\kenny\OneDrive\Desktop\Repos\Operators-Exercise\Operators-Exercise\OperatorExercise\bin\Debug\net6.0\OperatorExercise.exe
+C:\Users\kenny\OneDrive\Desktop\Repos\Operators-Exercise\Operators-Exercise\OperatorExercise\bin\Debug\net6.0\OperatorExercise.deps.json
+C:\Users\kenny\OneDrive\Desktop\Repos\Operators-Exercise\Operators-Exercise\OperatorExercise\bin\Debug\net6.0\OperatorExercise.runtimeconfig.json
+C:\Users\kenny\OneDrive\Desktop\Repos\Operators-Exercise\Operators-Exercise\OperatorExercise\bin\Debug\net6.0\OperatorExercise.dll
+C:\Users\kenny\OneDrive\Desktop\Repos\Operators-Exercise\Operators-Exercise\OperatorExercise\bin\Debug\net6.0\OperatorExercise.pdb
+C:\Users\kenny\OneDrive\Desktop\Repos\Operators-Exercise\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.csproj.AssemblyReference.cache
+C:\Users\kenny\OneDrive\Desktop\Repos\Operators-Exercise\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenny\OneDrive\Desktop\Repos\Operators-Exercise\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.AssemblyInfoInputs.cache
+C:\Users\kenny\OneDrive\Desktop\Repos\Operators-Exercise\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.AssemblyInfo.cs
+C:\Users\kenny\OneDrive\Desktop\Repos\Operators-Exercise\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.csproj.CoreCompileInputs.cache
+C:\Users\kenny\OneDrive\Desktop\Repos\Operators-Exercise\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.dll
+C:\Users\kenny\OneDrive\Desktop\Repos\Operators-Exercise\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\refint\OperatorExercise.dll
+C:\Users\kenny\OneDrive\Desktop\Repos\Operators-Exercise\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.pdb
+C:\Users\kenny\OneDrive\Desktop\Repos\Operators-Exercise\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.genruntimeconfig.cache
+C:\Users\kenny\OneDrive\Desktop\Repos\Operators-Exercise\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\ref\OperatorExercise.dll
